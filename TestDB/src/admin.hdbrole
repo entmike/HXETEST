@@ -1,0 +1,8 @@
+{
+	"role":{
+		"name": "TEST.TestDB::admin",
+		"schema_privileges": [{
+			"privileges": ["SELECT","EXECUTE","INSERT","UPDATE","DELETE"]
+		}]
+      }
+}

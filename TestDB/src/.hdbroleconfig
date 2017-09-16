@@ -1,0 +1,7 @@
+{
+	"TEST.TestDB::admin":{
+		"Ref1":{
+			"schema":"TEST_1"
+		}
+	}
+}

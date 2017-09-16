@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Calculation:scenario xmlns:Calculation="http://www.sap.com/ndb/BiModelCalculation.ecore" id="TEST.TestDB::Test" applyPrivilegeType="NONE" dataCategory="CUBE" schemaVersion="3.0" defaultClient="$$client$$" outputViewType="Aggregation" cacheInvalidationPeriod="NONE" enforceSqlExecution="false">
+<descriptions defaultDescription="Test"/>
+<localVariables/>
+<variableMappings/>
+<dataSources>
+  <DataSource id="TEST.TestDB::Status">
+    <resourceUri>TEST.TestDB::Status</resourceUri>
+  </DataSource>
+</dataSources>
+<calculationViews/>
+<logicalModel id="TEST.TestDB::Status">
+  <attributes>
+    <attribute id="ScreenName" order="2" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="ScreenName"/>
+      <keyMapping columnObjectName="Status" columnName="ScreenName"/>
+    </attribute>
+    <attribute id="Tweet" order="3" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="Tweet"/>
+      <keyMapping columnObjectName="Status" columnName="Tweet"/>
+    </attribute>
+    <attribute id="Source" order="4" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="Source"/>
+      <keyMapping columnObjectName="Status" columnName="Source"/>
+    </attribute>
+    <attribute id="InReplyToScreenName" order="8" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="InReplyToScreenName"/>
+      <keyMapping columnObjectName="Status" columnName="InReplyToScreenName"/>
+    </attribute>
+    <attribute id="isoLanguageCode" order="17" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="isoLanguageCode"/>
+      <keyMapping columnObjectName="Status" columnName="isoLanguageCode"/>
+    </attribute>
+    <attribute id="Country" order="21" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="Country"/>
+      <keyMapping columnObjectName="Status" columnName="Country"/>
+    </attribute>
+    <attribute id="Place_name" order="22" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="Place_name"/>
+      <keyMapping columnObjectName="Status" columnName="Place_name"/>
+    </attribute>
+    <attribute id="Place_type" order="23" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="Place_type"/>
+      <keyMapping columnObjectName="Status" columnName="Place_type"/>
+    </attribute>
+    <attribute id="UserName" order="25" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="UserName"/>
+      <keyMapping columnObjectName="Status" columnName="UserName"/>
+    </attribute>
+    <attribute id="UserUrl" order="26" displayAttribute="false" attributeHierarchyActive="false">
+      <descriptions defaultDescription="UserUrl"/>
+      <keyMapping columnObjectName="Status" columnName="UserUrl"/>
+    </attribute>
+  </attributes>
+  <calculatedAttributes/>
+  <baseMeasures>
+    <measure id="Id" order="1" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="Id"/>
+      <measureMapping columnObjectName="Status" columnName="Id"/>
+    </measure>
+    <measure id="Truncated" order="5" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="Truncated"/>
+      <measureMapping columnObjectName="Status" columnName="Truncated"/>
+    </measure>
+    <measure id="InReplyToStatusId" order="6" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="InReplyToStatusId"/>
+      <measureMapping columnObjectName="Status" columnName="InReplyToStatusId"/>
+    </measure>
+    <measure id="InReplyToUserId" order="7" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="InReplyToUserId"/>
+      <measureMapping columnObjectName="Status" columnName="InReplyToUserId"/>
+    </measure>
+    <measure id="Favorited" order="9" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="Favorited"/>
+      <measureMapping columnObjectName="Status" columnName="Favorited"/>
+    </measure>
+    <measure id="Retweeted" order="10" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="Retweeted"/>
+      <measureMapping columnObjectName="Status" columnName="Retweeted"/>
+    </measure>
+    <measure id="FavoriteCount" order="11" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="FavoriteCount"/>
+      <measureMapping columnObjectName="Status" columnName="FavoriteCount"/>
+    </measure>
+    <measure id="Retweet" order="12" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="Retweet"/>
+      <measureMapping columnObjectName="Status" columnName="Retweet"/>
+    </measure>
+    <measure id="RetweetCount" order="13" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="RetweetCount"/>
+      <measureMapping columnObjectName="Status" columnName="RetweetCount"/>
+    </measure>
+    <measure id="RetweetedByMe" order="14" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="RetweetedByMe"/>
+      <measureMapping columnObjectName="Status" columnName="RetweetedByMe"/>
+    </measure>
+    <measure id="CurrentUserRetweetId" order="15" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="CurrentUserRetweetId"/>
+      <measureMapping columnObjectName="Status" columnName="CurrentUserRetweetId"/>
+    </measure>
+    <measure id="PossiblySensitive" order="16" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="PossiblySensitive"/>
+      <measureMapping columnObjectName="Status" columnName="PossiblySensitive"/>
+    </measure>
+    <measure id="CreatedAt" order="18" aggregationType="min" measureType="simple">
+      <descriptions defaultDescription="CreatedAt"/>
+      <measureMapping columnObjectName="Status" columnName="CreatedAt"/>
+    </measure>
+    <measure id="Latitude" order="19" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="Latitude"/>
+      <measureMapping columnObjectName="Status" columnName="Latitude"/>
+    </measure>
+    <measure id="Longitude" order="20" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="Longitude"/>
+      <measureMapping columnObjectName="Status" columnName="Longitude"/>
+    </measure>
+    <measure id="UserId" order="24" aggregationType="sum" measureType="simple">
+      <descriptions defaultDescription="UserId"/>
+      <measureMapping columnObjectName="Status" columnName="UserId"/>
+    </measure>
+  </baseMeasures>
+  <calculatedMeasures/>
+  <restrictedMeasures/>
+  <localDimensions/>
+</logicalModel>
+<layout>
+  <shapes>
+    <shape expanded="true" modelObjectName="Output" modelObjectNameSpace="MeasureGroup">
+      <upperLeftCorner x="40" y="85"/>
+    </shape>
+  </shapes>
+</layout>
+</Calculation:scenario>

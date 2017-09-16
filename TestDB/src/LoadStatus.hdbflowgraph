@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowgraph:ContainerNode xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flowgraph="http://www.sap.com/ndb/flowgraph/1.0" xmi:version="2.0" xmi:id="33a37a469fcc1ef5a0ba04b7bdb7679f" name="LoadStatus" runtimeBehavior="REALTIME_TASK">
+  <annotations key="sap.afm.layout" xmi:id="87832cb86743e33b2f683fc1c80b9b0f">
+    <annotations xmi:id="0ad2994e79b0daa434850d28886d2021" key="x" value="10">
+    </annotations>
+    <annotations xmi:id="7dd157750aeec3e17d4bbba7e580e131" key="y" value="10">
+    </annotations>
+    <annotations xmi:id="69100c8fd3c5025823b4b037ddf1992b" key="width" value="100">
+    </annotations>
+    <annotations xmi:id="358a434fcf3f27e51b42641378496a04" key="height" value="84">
+    </annotations>
+  </annotations>
+  <annotations xmi:id="2c6a3eb6dbf569f2ab636200dc234832" key="sap.afm.palette">
+    <annotations xmi:id="8f98ab75c6be9e698182a8d4091bad0a" key="additions" value=""/>
+  </annotations>
+  <annotations xmi:id="7838857587d5a3e01877f3db99a699ad" key="sap.afm.nodeType" value="ContainerNode">
+  </annotations>
+  <annotations xmi:id="f9aa73475f1d741be82b4ad5cdd97eab" key="sap.afm.nodeInputs">
+  </annotations>
+  <annotations xmi:id="be59d11962f3c32026f4d9af467f25f3" key="sap.afm.nodeOutputs">
+  </annotations>
+  <annotations xmi:id="859a38ddf9eb01cd89fba0393513c146" key="sap.im.explicitTypeConversion">
+  </annotations>
+  <tableMappings xmi:id="7aa820ed99c42394806549d45f2fefe6" source="d7591dc27f777dea3feabc9fe15a6261" target="c75a3634fbedc3ad99eb7a93b165826d">
+    <attributeMappings xmi:id="872dd480bb53329bfe468dab8b394a1d" source="16d4078b2405a2108de50eafdd146c5f" target="3ff1c184f04026ebabe118b6cadf04bc">
+    </attributeMappings>
+    <attributeMappings xmi:id="4ae61e5fe8777b35c6f692cb57e2a53e" source="5ba71904b8c96b96a1e1defeacbf0446" target="28e2a708cccc1989d3b9389500cb3d76">
+    </attributeMappings>
+    <attributeMappings xmi:id="db08992177cfcfcb1900f7a6c5a643a8" source="f209734164df23c597cb1c79970c20ea" target="a3722c4e3958b80cf2640c74ab013cae">
+    </attributeMappings>
+    <attributeMappings xmi:id="c713dca8adcda4560610085944b69246" source="522b909ffa77d9500fef49ee4e6dac11" target="b9730ee1bbe373823d24a117250eb81f">
+    </attributeMappings>
+    <attributeMappings xmi:id="2fd03d90a45a72ec3faaee85ed33322b" source="744fcdfd458172b4354ae75b3c32f9f5" target="0861ab42a673ed3263dbf42f0a29abfb">
+    </attributeMappings>
+    <attributeMappings xmi:id="1f78c17ded1ed1fda54bf7aa1e2aaf23" source="d7826c1962127fec85c3c18abf1c4bf9" target="4d543a2735002a25bcb0b1ba057fdbad">
+    </attributeMappings>
+    <attributeMappings xmi:id="b2fab0ebc371b09ebf77f046b9b4ca42" source="b34a2bb228c42d9d400da8d366633c75" target="e8914e9d4d44cfad5733c7fcc6e7f665">
+    </attributeMappings>
+    <attributeMappings xmi:id="6df35962f94572fe12fef2c7c33daaec" source="88d526f385069732fe1751bc51094626" target="54d0a94f87f22641b04767798bc93f7a">
+    </attributeMappings>
+    <attributeMappings xmi:id="ec99afe3544bc84513a49acd6f6f325c" source="e1038ce884d48b9312d65b54cbe9fb68" target="432147870fecbdc90a95dd02402112e4">
+    </attributeMappings>
+    <attributeMappings xmi:id="cd9da0ee365e3e8750b0605355ed7f36" source="11ebec7647e4d30aa7c7d5ccd1c02dc1" target="bab10cca52b578a08e0b37bd6f870283">
+    </attributeMappings>
+    <attributeMappings xmi:id="fcad1a1d7dfe9b1f9921cfcd167a14e3" source="13e9a7a3c331e4075b5885a212e120eb" target="8d75587ca7b53b493e8c24b1cd7fd0d6">
+    </attributeMappings>
+    <attributeMappings xmi:id="0bdef5189357b4deaa84c5db0ca0495f" source="c5cf2645e496a916e86668e5e3aaee62" target="db88adc7c47520d963b5d6ad886b615c">
+    </attributeMappings>
+    <attributeMappings xmi:id="18d515a6508c67ce68e5f262b5bda5c8" source="055a0b67361a80f51bd4431aa4dd9a99" target="5dcabab036158c1e5386080117db0b52">
+    </attributeMappings>
+    <attributeMappings xmi:id="f0a28aa31213d4592b884a4ff1466b02" source="e15591f122d9810d706280d126081dc4" target="6bbfa5dbf3b3f4d47f95a8b4be51b5c4">
+    </attributeMappings>
+    <attributeMappings xmi:id="3fe609f4f7aee17994ffe4f0e0c235d9" source="cd701750c40600df1f734e7a36c9b6d4" target="df7e5c0d0dac65e2a7f9ed322ed2c5b6">
+    </attributeMappings>
+    <attributeMappings xmi:id="4d1109d29defc267bda110a4fbcb772f" source="d2064f4a850fd416ccf01b7bcab9643a" target="63592e3a820a0b9cd5b5d36167471d83">
+    </attributeMappings>
+    <attributeMappings xmi:id="2302d7d59a3a3eec0146d64bf4023a18" source="0e811e93aa2ef86c602545f29163312a" target="7aa8d9fd44b3edf6ac62f9cf218fca63">
+    </attributeMappings>
+    <attributeMappings xmi:id="7fe8683ce8f4168c1a231f2e825e3f8a" source="56d082065cb34c1d03c1d68784b07201" target="6b563c0df04833d3cadb76758b87b6f2">
+    </attributeMappings>
+    <attributeMappings xmi:id="1669093410ef675b4efffd6601c891e5" source="3ffd8c0f57e25f7aee2204a35e70eef8" target="0245dbeacbff79bb8d48bfc465924447">
+    </attributeMappings>
+    <attributeMappings xmi:id="77bbd2f2f7d173064b3c7f824d1f4b6b" source="1c02264c95b36016db9c8551e5934777" target="bfaf33d789c54d83f75a82703db970f4">
+    </attributeMappings>
+    <attributeMappings xmi:id="71f281de85c7f28b06d697a476457266" source="c1dd6c7c63238089429b0bc8c78e5f7a" target="93a8ca2ab82081a511a2ed296fb45b2c">
+    </attributeMappings>
+    <attributeMappings xmi:id="2fef73debc3a22d1953a8b6e4f9f054a" source="fc20439a28ef4b11ac00a261aab28f1a" target="d39d05bb0e96024a29e36392faa7972f">
+    </attributeMappings>
+    <attributeMappings xmi:id="8e7903e8c8b093cdb9fa8d061450926b" source="fc5510d7807207839cd5877d8cc9b667" target="8330639c09c9911f2f16ebabdd2da530">
+    </attributeMappings>
+    <attributeMappings xmi:id="7eec369695225e0cb191abe2d0ed7410" source="086efe17c554e0a19d3d3307dfe9bd17" target="ba684344d35d46f96bdcf364582f2b0e">
+    </attributeMappings>
+    <attributeMappings xmi:id="6eb6359efb0d9c09d673d477e28058f7" source="d5a2795c5d15fda90e80fddfa646d329" target="3889f12d05bc2444c0f7f629b0c2ab2c">
+    </attributeMappings>
+    <attributeMappings xmi:id="94a8539b66049ef18b424185fbcb7977" source="f8884141449d55971100a04bba6eab96" target="a99f852408267b02d0fb2b76903890c5">
+    </attributeMappings>
+  </tableMappings>
+  <nodes xmi:id="3580a4a8d9946c2669edb05e6b320595" name="DataSource" catalogObjectName="TEST.TestDB::Status" type="VIRTUAL_TABLE" xsi:type="flowgraph:DataNode" dataLayout="ROW">
+    <annotations key="sap.afm.layout" xmi:id="33bf0567634c5dc61f6cb56d25a40461">
+      <annotations xmi:id="0e1ca5ac114d919be7f873eb41ea14d3" key="x" value="53">
+      </annotations>
+      <annotations xmi:id="b1490f092c487e694594e0a63ae56412" key="y" value="99">
+      </annotations>
+      <annotations xmi:id="674fe53e35567db4cc014e3f85ea6aeb" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="3dfe45450244ec884686245bb1286bc0" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="1553666ca938b5d82ae95b3c673b5ceb" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="ba542733caad4a60da49460041e10726" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="fbad9545c49cd0ccabaf8157dd43f6a3" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="292fd0ebc903ce471cfeeceecdc12248" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="59384a710051f5b6f0c9e1cdf03dcb14" key="sap.afm.displayName" value="Data Source">
+    </annotations>
+    <annotations xmi:id="3e8d8d6c6bf895a458254ac169a2bf8f" key="columns" value="[{&quot;name&quot;:&quot;Id&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;false&quot;,&quot;primarykey&quot;:true},{&quot;name&quot;:&quot;ScreenName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Tweet&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Source&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Truncated&quot;,&quot;type&quot;:&quot;TINYINT&quot;,&quot;length&quot;:3,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;InReplyToStatusId&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;InReplyToUserId&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;InReplyToScreenName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Favorited&quot;,&quot;type&quot;:&quot;TINYINT&quot;,&quot;length&quot;:3,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Retweeted&quot;,&quot;type&quot;:&quot;TINYINT&quot;,&quot;length&quot;:3,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;FavoriteCount&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Retweet&quot;,&quot;type&quot;:&quot;TINYINT&quot;,&quot;length&quot;:3,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;RetweetCount&quot;,&quot;type&quot;:&quot;INTEGER&quot;,&quot;length&quot;:10,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;RetweetedByMe&quot;,&quot;type&quot;:&quot;TINYINT&quot;,&quot;length&quot;:3,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;CurrentUserRetweetId&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;PossiblySensitive&quot;,&quot;type&quot;:&quot;TINYINT&quot;,&quot;length&quot;:3,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;isoLanguageCode&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;CreatedAt&quot;,&quot;type&quot;:&quot;TIMESTAMP&quot;,&quot;length&quot;:27,&quot;scale&quot;:7,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Latitude&quot;,&quot;type&quot;:&quot;DOUBLE&quot;,&quot;length&quot;:15,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Longitude&quot;,&quot;type&quot;:&quot;DOUBLE&quot;,&quot;length&quot;:15,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Country&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Place_name&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;Place_type&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;UserId&quot;,&quot;type&quot;:&quot;BIGINT&quot;,&quot;length&quot;:19,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;UserName&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;},{&quot;name&quot;:&quot;UserUrl&quot;,&quot;type&quot;:&quot;NVARCHAR&quot;,&quot;length&quot;:256,&quot;nullable&quot;:&quot;true&quot;}]">
+    </annotations>
+    <annotations xmi:id="8f7d7b1e54eab2b54cb300f2695f2860" key="sap.im.realtime" value="true">
+    </annotations>
+    <outputs xmi:id="d7591dc27f777dea3feabc9fe15a6261" name="DataSource">
+      <attributes xmi:id="16d4078b2405a2108de50eafdd146c5f" name="Id" type="BIGINT" nullable="false" length="19">
+        <annotations xmi:id="4a2e2817b616231d6c65d29374fb24a4" key="sap.im.primaryKey" value="true">
+        </annotations>
+      </attributes>
+      <attributes xmi:id="5ba71904b8c96b96a1e1defeacbf0446" name="ScreenName" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="f209734164df23c597cb1c79970c20ea" name="Tweet" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="522b909ffa77d9500fef49ee4e6dac11" name="Source" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="744fcdfd458172b4354ae75b3c32f9f5" name="Truncated" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="d7826c1962127fec85c3c18abf1c4bf9" name="InReplyToStatusId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="b34a2bb228c42d9d400da8d366633c75" name="InReplyToUserId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="88d526f385069732fe1751bc51094626" name="InReplyToScreenName" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="e1038ce884d48b9312d65b54cbe9fb68" name="Favorited" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="11ebec7647e4d30aa7c7d5ccd1c02dc1" name="Retweeted" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="13e9a7a3c331e4075b5885a212e120eb" name="FavoriteCount" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="c5cf2645e496a916e86668e5e3aaee62" name="Retweet" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="055a0b67361a80f51bd4431aa4dd9a99" name="RetweetCount" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="e15591f122d9810d706280d126081dc4" name="RetweetedByMe" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="cd701750c40600df1f734e7a36c9b6d4" name="CurrentUserRetweetId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="d2064f4a850fd416ccf01b7bcab9643a" name="PossiblySensitive" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="0e811e93aa2ef86c602545f29163312a" name="isoLanguageCode" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="56d082065cb34c1d03c1d68784b07201" name="CreatedAt" type="TIMESTAMP" nullable="true" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="3ffd8c0f57e25f7aee2204a35e70eef8" name="Latitude" type="DOUBLE" nullable="true" length="15">
+      </attributes>
+      <attributes xmi:id="1c02264c95b36016db9c8551e5934777" name="Longitude" type="DOUBLE" nullable="true" length="15">
+      </attributes>
+      <attributes xmi:id="c1dd6c7c63238089429b0bc8c78e5f7a" name="Country" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="fc20439a28ef4b11ac00a261aab28f1a" name="Place_name" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="fc5510d7807207839cd5877d8cc9b667" name="Place_type" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="086efe17c554e0a19d3d3307dfe9bd17" name="UserId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="d5a2795c5d15fda90e80fddfa646d329" name="UserName" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="f8884141449d55971100a04bba6eab96" name="UserUrl" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+    </outputs>
+  </nodes>
+  <nodes xmi:id="a7d44125465287c00a788ff766f55129" name="DataTarget" catalogObjectName="LoadedStatus" type="TEMPLATE_TABLE" xsi:type="flowgraph:DataNode">
+    <annotations key="sap.afm.layout" xmi:id="a67618b2fe5912a0bcb9c91f6abdf2f1">
+      <annotations xmi:id="dfbb65c0afd8ee2c5d1a1d7a0b8f11a3" key="x" value="308">
+      </annotations>
+      <annotations xmi:id="4ee861774cd5436a27f3accfd87daacc" key="y" value="99">
+      </annotations>
+      <annotations xmi:id="74c441919bd8eb3f06c8f29fcb6139fb" key="width" value="120">
+      </annotations>
+      <annotations xmi:id="ed0da20b0cbb2ca461a569c67dc7af2a" key="height" value="115">
+      </annotations>
+    </annotations>
+    <annotations xmi:id="2e9ec553b4909ba9940bc2a0bba1df29" key="sap.afm.description">
+    </annotations>
+    <annotations xmi:id="d74f5fce398eefd98ececeb47135b0e2" key="sap.afm.nodeType" value="DataNode">
+    </annotations>
+    <annotations xmi:id="eb8af3e3c854bea133f2de170e442872" key="sap.afm.nodeInputs">
+    </annotations>
+    <annotations xmi:id="a19a438c26983dbf1fbb782ba4b7b43f" key="sap.afm.nodeOutputs">
+    </annotations>
+    <annotations xmi:id="0afeb8530bd8a249509675f6130ab81c" key="sap.afm.displayName" value="Data Target">
+    </annotations>
+    <inputs xmi:id="c75a3634fbedc3ad99eb7a93b165826d" name="DataTarget">
+      <attributes xmi:id="3ff1c184f04026ebabe118b6cadf04bc" name="Id" type="BIGINT" nullable="false" length="19">
+        <annotations xmi:id="3761ebe0929cd07c3b3143ebf95de1a6" key="sap.im.primaryKey" value="true"/>
+      </attributes>
+      <attributes xmi:id="28e2a708cccc1989d3b9389500cb3d76" name="ScreenName" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="a3722c4e3958b80cf2640c74ab013cae" name="Tweet" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="b9730ee1bbe373823d24a117250eb81f" name="Source" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="0861ab42a673ed3263dbf42f0a29abfb" name="Truncated" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="4d543a2735002a25bcb0b1ba057fdbad" name="InReplyToStatusId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="e8914e9d4d44cfad5733c7fcc6e7f665" name="InReplyToUserId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="54d0a94f87f22641b04767798bc93f7a" name="InReplyToScreenName" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="432147870fecbdc90a95dd02402112e4" name="Favorited" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="bab10cca52b578a08e0b37bd6f870283" name="Retweeted" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="8d75587ca7b53b493e8c24b1cd7fd0d6" name="FavoriteCount" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="db88adc7c47520d963b5d6ad886b615c" name="Retweet" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="5dcabab036158c1e5386080117db0b52" name="RetweetCount" type="INTEGER" nullable="true" length="10">
+      </attributes>
+      <attributes xmi:id="6bbfa5dbf3b3f4d47f95a8b4be51b5c4" name="RetweetedByMe" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="df7e5c0d0dac65e2a7f9ed322ed2c5b6" name="CurrentUserRetweetId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="63592e3a820a0b9cd5b5d36167471d83" name="PossiblySensitive" type="TINYINT" nullable="true" length="3">
+      </attributes>
+      <attributes xmi:id="7aa8d9fd44b3edf6ac62f9cf218fca63" name="isoLanguageCode" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="6b563c0df04833d3cadb76758b87b6f2" name="CreatedAt" type="TIMESTAMP" nullable="true" length="27" scale="7">
+      </attributes>
+      <attributes xmi:id="0245dbeacbff79bb8d48bfc465924447" name="Latitude" type="DOUBLE" nullable="true" length="15">
+      </attributes>
+      <attributes xmi:id="bfaf33d789c54d83f75a82703db970f4" name="Longitude" type="DOUBLE" nullable="true" length="15">
+      </attributes>
+      <attributes xmi:id="93a8ca2ab82081a511a2ed296fb45b2c" name="Country" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="d39d05bb0e96024a29e36392faa7972f" name="Place_name" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="8330639c09c9911f2f16ebabdd2da530" name="Place_type" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="ba684344d35d46f96bdcf364582f2b0e" name="UserId" type="BIGINT" nullable="true" length="19">
+      </attributes>
+      <attributes xmi:id="3889f12d05bc2444c0f7f629b0c2ab2c" name="UserName" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+      <attributes xmi:id="a99f852408267b02d0fb2b76903890c5" name="UserUrl" type="NVARCHAR" nullable="true" length="256">
+      </attributes>
+    </inputs>
+  </nodes>
+</flowgraph:ContainerNode>
